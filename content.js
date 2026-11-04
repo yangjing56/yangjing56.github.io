@@ -1,18 +1,18 @@
 // 只需修改这里，网站会自动更新。文字请保留引号和逗号。
 const portfolio = {
-  name: "程鑫年",
-  shortName: "CXN",
-  initials: "CXN",
+  name: "矫杨婧",
+  shortName: "JYJ",
+  initials: "JYJ",
   title: "Python 开发与数据采集",
   summary: "用代码把开放数据变成可理解的信息。我专注网页采集、数据清洗与自动化流程。",
-  status: "持续充电中",
-  location: "中国 · 北京",
-  email: "kaiyang@example.com",
-  github: "https://github.com/kaiyang-teacher",
+  status: "持续学习中",
+  location: "中国 · 四川",
+  email: "3509746664@qq.com",
+  github: "https://yangjing56.github.io",
   csdn: "https://www.csdn.net/",
   gitee: "https://gitee.com/",
   resumeUrl: "",
-  studyHours: "180+",
+  studyHours: "120+",
   skillCount: "06",
   about: "我正在系统学习 Python 数据采集与自动化。每个项目都从一个具体问题出发，完成从抓取、清洗到可视化展示的完整流程。",
   skills: ["Python", "Requests", "Beautiful Soup", "Selenium", "Pandas", "SQL"],
@@ -35,6 +35,5 @@ const portfolio = {
     { category: "crawler", number: "16", title: "贝壳二手房数据采集", description: "爬虫采集贝壳二手房数据，保存Excel文件", tags: ["requests", "xpath","反爬策略"], link: "Portfolio/贝壳二手房/index.html", accent: "mint", bgImage: "Portfolio/bgimgs/贝壳二手房.png"},
     { category: "analysis", number: "17", title: "csv自动化大屏", description: "csv数据可视化大屏，支持数据筛选、图表切换。", tags: ["pandas", "pyecharts","Excel"], link: "Portfolio/csv自动化大屏/CSV自动大屏.html", accent: "coral", bgImage: "Portfolio/bgimgs/数据大屏.png"},
     { category: "creative", number: "18", title: "炫酷项目展示", description: "AIGC技术项目展示，展示AIGC技术项目，包括但不限于AI绘画、AI写作、AI编程等。", tags: ["AIGC", "提示词","python"], link: "Portfolio/炫酷项目展示.html", accent: "coral", bgImage: "Portfolio/bgimgs/AIGC.png"},
-     { category: "creative", number: "19", title: "刘亦菲final", description: "刘亦菲是开阳心中最完美的女神", tags: ["beautiful", "lovely","pretty"], link: "Portfolio/刘亦菲.html", accent: "coral", bgImage: "Portfolio/bgimgs/刘亦菲.jpg"}
   ]
 };
